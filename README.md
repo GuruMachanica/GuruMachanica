@@ -148,10 +148,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GuruMachanica&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
-</div>
-
 <br>
 
 <div align="center">
