@@ -91,7 +91,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/GuruMachanica/GuruMachanica/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/GuruMachanica/GuruMachanica/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
