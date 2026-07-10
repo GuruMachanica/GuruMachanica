@@ -124,8 +124,8 @@
 ## 📊 Analytics & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuruMachanica&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=61DAFB" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruMachanica&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=61DAFB" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuruMachanica&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=61DAFB&v=1" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruMachanica&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=61DAFB&v=1" height="170" />
 </div>
 
 <br>
