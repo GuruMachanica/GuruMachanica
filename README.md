@@ -83,7 +83,6 @@
 ### Generative AI &amp; Agentic Systems
 <p>
   <img src="https://img.shields.io/badge/Agentic_AI-141414?style=for-the-badge&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/AI_Agents-141414?style=for-the-badge&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/LLM_Fine--Tuning-141414?style=for-the-badge&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/RAG-141414?style=for-the-badge&logo=langchain&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Data_Curation-141414?style=for-the-badge&logoColor=61DAFB" />
