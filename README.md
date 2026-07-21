@@ -45,9 +45,10 @@
 <div align="center">
   <kbd>GameForge</kbd> &nbsp;&nbsp;
   <kbd>Concept3D</kbd> &nbsp;&nbsp;
-  <kbd>Retrieval-Augmented Generation (RAG)</kbd> &nbsp;&nbsp;
-  <kbd>LLMs</kbd> &nbsp;&nbsp;
-  <kbd>Autonomous AI</kbd> &nbsp;&nbsp;
+  <kbd>Agentic AI &amp; AI Agents</kbd> &nbsp;&nbsp;
+  <kbd>RAG</kbd> &nbsp;&nbsp;
+  <kbd>LLM Fine-Tuning</kbd> &nbsp;&nbsp;
+  <kbd>Data Curation</kbd> &nbsp;&nbsp;
   <kbd>Backend Engineering</kbd>
 </div>
 
@@ -79,6 +80,15 @@
 
 ## 🛠 Tech Stack
 
+### Generative AI &amp; Agentic Systems
+<p>
+  <img src="https://img.shields.io/badge/Agentic_AI-141414?style=for-the-badge&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/AI_Agents-141414?style=for-the-badge&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/LLM_Fine--Tuning-141414?style=for-the-badge&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/RAG-141414?style=for-the-badge&logo=langchain&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Data_Curation-141414?style=for-the-badge&logoColor=61DAFB" />
+</p>
+
 ### Programming
 <p>
   <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=61DAFB" />
@@ -87,22 +97,20 @@
   <img src="https://img.shields.io/badge/SQL-141414?style=for-the-badge&logo=sqlite&logoColor=61DAFB" />
 </p>
 
-### Artificial Intelligence & ML
+### Artificial Intelligence &amp; ML
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-141414?style=for-the-badge&logo=tensorflow&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/PyTorch-141414?style=for-the-badge&logo=pytorch&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Scikit--Learn-141414?style=for-the-badge&logo=scikitlearn&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Computer_Vision-141414?style=for-the-badge&logo=opencv&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/LLMs-141414?style=for-the-badge&logo=openai&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/RAG-141414?style=for-the-badge&logo=langchain&logoColor=61DAFB" />
 </p>
 
-### Backend & Frameworks
+### Backend &amp; Frameworks
 <p>
   <img src="https://img.shields.io/badge/FastAPI-141414?style=for-the-badge&logo=fastapi&logoColor=61DAFB" />
 </p>
 
-### Databases & Tools
+### Databases &amp; Tools
 <p>
   <img src="https://img.shields.io/badge/MongoDB-141414?style=for-the-badge&logo=mongodb&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MySQL-141414?style=for-the-badge&logo=mysql&logoColor=61DAFB" />
