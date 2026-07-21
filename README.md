@@ -84,7 +84,6 @@
   <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/C++-141414?style=for-the-badge&logo=c%2B%2B&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/C-141414?style=for-the-badge&logo=c&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-141414?style=for-the-badge&logo=javascript&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/SQL-141414?style=for-the-badge&logo=sqlite&logoColor=61DAFB" />
 </p>
 
@@ -98,13 +97,9 @@
   <img src="https://img.shields.io/badge/RAG-141414?style=for-the-badge&logo=langchain&logoColor=61DAFB" />
 </p>
 
-### Backend & Frontend
+### Backend & Frameworks
 <p>
   <img src="https://img.shields.io/badge/FastAPI-141414?style=for-the-badge&logo=fastapi&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React-141414?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-141414?style=for-the-badge&logo=vite&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind-141414?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Three.js-141414?style=for-the-badge&logo=threedotjs&logoColor=61DAFB" />
 </p>
 
 ### Databases & Tools

@@ -24,14 +24,16 @@
   <text x="35" y="95" font-family="'Segoe UI', Helvetica, sans-serif" font-size="14" fill="#a0a0a0">Analytics dashboard.</text>
 
   <!-- Tags Backgrounds -->
-  <rect width="70" height="24" x="35" y="115" fill="#222" rx="4" />
-  <rect width="55" height="24" x="115" y="115" fill="#222" rx="4" />
-  <rect width="75" height="24" x="180" y="115" fill="#222" rx="4" />
+  <rect width="65" height="24" x="35" y="115" fill="#222" rx="4" />
+  <rect width="50" height="24" x="110" y="115" fill="#222" rx="4" />
+  <rect width="75" height="24" x="170" y="115" fill="#222" rx="4" />
+  <rect width="90" height="24" x="255" y="115" fill="#222" rx="4" />
 
   <!-- Tags Text -->
-  <text x="45" y="132" font-family="'Segoe UI', Helvetica, sans-serif" font-size="11" font-weight="500" fill="#e0e0e0">Three.js</text>
-  <text x="125" y="132" font-family="'Segoe UI', Helvetica, sans-serif" font-size="11" font-weight="500" fill="#e0e0e0">React</text>
-  <text x="190" y="132" font-family="'Segoe UI', Helvetica, sans-serif" font-size="11" font-weight="500" fill="#e0e0e0">Analytics</text>
+  <text x="45" y="132" font-family="'Segoe UI', Helvetica, sans-serif" font-size="11" font-weight="500" fill="#e0e0e0">Python</text>
+  <text x="120" y="132" font-family="'Segoe UI', Helvetica, sans-serif" font-size="11" font-weight="500" fill="#e0e0e0">SQL</text>
+  <text x="180" y="132" font-family="'Segoe UI', Helvetica, sans-serif" font-size="11" font-weight="500" fill="#e0e0e0">Analytics</text>
+  <text x="265" y="132" font-family="'Segoe UI', Helvetica, sans-serif" font-size="11" font-weight="500" fill="#e0e0e0">Spatial Data</text>
   
   <!-- Arrow / Link Icon -->
   <g transform="translate(410, 30)">

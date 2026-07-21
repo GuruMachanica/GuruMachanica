@@ -24,14 +24,16 @@
   <text x="35" y="95" font-family="'Segoe UI', Helvetica, sans-serif" font-size="14" fill="#a0a0a0">Dashboard.</text>
 
   <!-- Tags Backgrounds -->
-  <rect width="70" height="24" x="35" y="115" fill="#222" rx="4" />
-  <rect width="90" height="24" x="115" y="115" fill="#222" rx="4" />
-  <rect width="55" height="24" x="215" y="115" fill="#222" rx="4" />
+  <rect width="65" height="24" x="35" y="115" fill="#222" rx="4" />
+  <rect width="90" height="24" x="110" y="115" fill="#222" rx="4" />
+  <rect width="65" height="24" x="210" y="115" fill="#222" rx="4" />
+  <rect width="70" height="24" x="285" y="115" fill="#222" rx="4" />
 
   <!-- Tags Text -->
   <text x="45" y="132" font-family="'Segoe UI', Helvetica, sans-serif" font-size="11" font-weight="500" fill="#e0e0e0">Python</text>
-  <text x="125" y="132" font-family="'Segoe UI', Helvetica, sans-serif" font-size="11" font-weight="500" fill="#e0e0e0">Comp. Vision</text>
-  <text x="225" y="132" font-family="'Segoe UI', Helvetica, sans-serif" font-size="11" font-weight="500" fill="#e0e0e0">React</text>
+  <text x="120" y="132" font-family="'Segoe UI', Helvetica, sans-serif" font-size="11" font-weight="500" fill="#e0e0e0">Comp. Vision</text>
+  <text x="220" y="132" font-family="'Segoe UI', Helvetica, sans-serif" font-size="11" font-weight="500" fill="#e0e0e0">OpenCV</text>
+  <text x="295" y="132" font-family="'Segoe UI', Helvetica, sans-serif" font-size="11" font-weight="500" fill="#e0e0e0">FastAPI</text>
   
   <!-- Arrow / Link Icon -->
   <g transform="translate(410, 30)">
