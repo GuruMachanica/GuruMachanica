@@ -157,6 +157,12 @@
 </div>
 
 
+## 📚 Publications &amp; Certifications
+
+- 📄 **Research Paper:** [Physiochemical Pattern Fingerprinting (PPF): A Memory-Efficient Approach to Structurally-Sensitive Protein Homology Detection](https://impactfactor.org/PDF/IJDDT/16/IJDDT,Vol16,Issue43s,Article31.pdf)  
+  *Published in the International Journal of Drug Delivery Technology (IJDDT), Vol 16, Issue 4.*
+- 🎓 **Udemy Certification:** [Machine Learning A-Z: AI, Python](https://udemy-certificate.s3.amazonaws.com/pdf/UC-a0237679-e3fc-4010-9950-4d826538b75f.pdf)
+
 <div align="center">
   <img src="assets/divider.svg" alt="divider" width="800" />
 </div>
