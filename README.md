@@ -12,7 +12,7 @@
 
 <div align="center">
   <p>
-    I am an <b>AI Engineer</b> and <b>Backend Developer</b> specializing in Machine Learning, Generative AI, and Scalable Backend Systems. My focus is on turning complex architectural ideas into practical, high-performance software through AI, robust engineering, and thoughtful design.
+    I am an <b>Agentic AI Engineer</b> and <b>Backend Developer</b> specializing in Autonomous Agents, Generative AI, Scalable Backend Systems, and Data Engineering. My focus is on turning complex architectural ideas into practical, high-performance software through AI, robust engineering, and thoughtful design.
   </p>
 </div>
 
