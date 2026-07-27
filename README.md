@@ -161,7 +161,7 @@
 
 - 📄 **Research Paper:** [Physiochemical Pattern Fingerprinting (PPF): A Memory-Efficient Approach to Structurally-Sensitive Protein Homology Detection](https://impactfactor.org/PDF/IJDDT/16/IJDDT,Vol16,Issue43s,Article31.pdf)  
   *By Rohit Mishra, et al. (including Mohammad Huzaifa). Published in the International Journal of Drug Delivery Technology (IJDDT), Vol 16, Issue 4.*
-- 🎓 **Udemy Certification:** [Machine Learning A-Z: AI, Python](https://udemy-certificate.s3.amazonaws.com/pdf/UC-a0237679-e3fc-4010-9950-4d826538b75f.pdf)
+- 🎓 **Harvard Certification:** [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/110613e9-87d7-4464-9897-63780847a793)
 
 <div align="center">
   <img src="assets/divider.svg" alt="divider" width="800" />
