@@ -23,7 +23,7 @@
 ## 👤 About Me
 
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **Dr. A.P.J. Abdul Kalam Technical University (AKTU)**.
-- 💼 Currently working as a **Full-Time Backend Developer** at **Sanfy Consultancy Services**.
+- 💼 Completed **Backend Developer Internship** at **Sanfy Consultancy Services (Orvanto AI)** (Apr 2026 – Jul 2026).
 - 🧠 Deeply focused on **Machine Learning, LLMs, Generative AI, and Computer Vision**.
 - 🛠 Building robust **Backend Systems, Product Engineering solutions, and Workflow Automation**.
 
@@ -33,8 +33,12 @@
 
 ## 💼 Experience
 
-### **Backend Developer** @ Sanfy Consultancy Services
-*Focus: Backend APIs • Automation • Scalable Systems*
+### **Backend Developer Intern** @ Sanfy Consultancy Services (Orvanto AI)
+*Apr 2026 – Jul 2026 • Backend APIs • Automation • Scalable Systems*
+
+- **Backend APIs:** Designed and optimized high-throughput REST APIs and backend infrastructure using Python, FastAPI, and SQL.
+- **Automation Workflows:** Engineered custom n8n automation workflows and Docker environments to streamline data ingestion and system processes.
+- **Collaboration & Support:** Collaborated with the product team to debug complex systems, integrate third-party APIs, and resolve database bottlenecks.
 
 <div align="center">
   <img src="assets/divider.svg" alt="divider" width="800" />
