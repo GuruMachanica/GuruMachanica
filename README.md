@@ -137,7 +137,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=GuruMachanica&theme=dark&hide_border=true&border_radius=12&background=0a0a0a" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/GuruMachanica/GuruMachanica/main/assets/github-streak.svg" width="800" alt="GitHub Streak" />
 </div>
 
 <br>
