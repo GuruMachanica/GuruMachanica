@@ -3,7 +3,7 @@
 This repository powers the special GitHub Profile for **Mohammad Huzaifa** (`GuruMachanica`). 
 It uses GitHub Actions to automate metrics generation and contribution snake generation.
 
-## 🔑 Secrets Required
+##  Secrets Required
 
 To ensure all GitHub Actions run successfully, you need to configure the following repository secrets:
 
@@ -34,14 +34,14 @@ This is automatically provided by GitHub Actions for the **Generate Snake** work
 
 ---
 
-## 🚀 Workflows Explained
+##  Workflows Explained
 
 - **GitHub Metrics (`metrics.yml`)**: Runs every 12 hours. Fetches comprehensive stats (languages, habits, activity, lines of code) using `lowlighter/metrics` and commits them.
 - **Generate Snake (`snake.yml`)**: Runs every 12 hours. Generates an SVG animation of your contribution graph and pushes it to an isolated `output` branch to keep the main branch clean.
 
 ---
 
-## 🎨 Design System
+##  Design System
 
 - **Assets:** Custom SVGs (hero banner, project cards, dividers) are located in the `assets/` directory. 
 - **Modifying SVGs:** The SVGs are heavily optimized. If you need to change text (e.g., updating a project description), open the SVG in a code editor and modify the text within the `<text>` nodes.

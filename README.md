@@ -76,18 +76,18 @@
 
 <br>
 
-### 📂 Complete GitHub Repositories Directory
+###  Complete GitHub Repositories Directory
 
 | Project | Category | Core Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **A.E.G.I.S.** | Audio Edge Security & Anti-Scam | FastAPI • WebSockets • Python • Flutter | [🔗 GuruMachanica/A.E.G.I.S.](https://github.com/GuruMachanica/A.E.G.I.S.) |
-| **Concept-2-3D** | Prompt-to-3D Spatial Generation | PyTorch • Generative 3D • Semantic ML | [🔗 GuruMachanica/Concept-2-3D](https://github.com/GuruMachanica/Concept-2-3D) |
-| **KavachG** | Industrial Safety CV Command Center | FastAPI • OpenCV • Computer Vision | [🔗 GuruMachanica/KavachG](https://github.com/GuruMachanica/KavachG) |
-| **SunMap** | 3D Solar Potential & Revenue Analytics | Three.js • PyTorch • Spatial Simulation | [🔗 GuruMachanica/SunMap](https://github.com/GuruMachanica/SunMap) |
-| **Portfolio** | Multi-Page Monolith Web App | React 18 • Three.js • Anime.js • TailwindCSS | [🔗 GuruMachanica/Portfolio](https://github.com/GuruMachanica/Portfolio) |
-| **Giyu-Bot** | AI Assistant with pgvector RAG | Python • Mistral AI • Supabase • Docker | [🔗 GuruMachanica/Giyu-Bot](https://github.com/GuruMachanica/Giyu-Bot) |
-| **Game_Emulator** | Retro Gaming Desktop Interface | Python • PyQt5 • Desktop Systems | [🔗 GuruMachanica/Game_Emulator](https://github.com/GuruMachanica/Game_Emulator) |
-| **Summarizer** | NLP Document Summarization | Python • NLP • Full Stack Web | [🔗 GuruMachanica/Summarizer](https://github.com/GuruMachanica/Summarizer) |
+| **A.E.G.I.S.** | Audio Edge Security & Anti-Scam | FastAPI • WebSockets • Python • Flutter | [ GuruMachanica/A.E.G.I.S.](https://github.com/GuruMachanica/A.E.G.I.S.) |
+| **Concept-2-3D** | Prompt-to-3D Spatial Generation | PyTorch • Generative 3D • Semantic ML | [ GuruMachanica/Concept-2-3D](https://github.com/GuruMachanica/Concept-2-3D) |
+| **KavachG** | Industrial Safety CV Command Center | FastAPI • OpenCV • Computer Vision | [ GuruMachanica/KavachG](https://github.com/GuruMachanica/KavachG) |
+| **SunMap** | 3D Solar Potential & Revenue Analytics | Three.js • PyTorch • Spatial Simulation | [ GuruMachanica/SunMap](https://github.com/GuruMachanica/SunMap) |
+| **Portfolio** | Multi-Page Monolith Web App | React 18 • Three.js • Anime.js • TailwindCSS | [ GuruMachanica/Portfolio](https://github.com/GuruMachanica/Portfolio) |
+| **Giyu-Bot** | AI Assistant with pgvector RAG | Python • Mistral AI • Supabase • Docker | [ GuruMachanica/Giyu-Bot](https://github.com/GuruMachanica/Giyu-Bot) |
+| **Game_Emulator** | Retro Gaming Desktop Interface | Python • PyQt5 • Desktop Systems | [ GuruMachanica/Game_Emulator](https://github.com/GuruMachanica/Game_Emulator) |
+| **Summarizer** | NLP Document Summarization | Python • NLP • Full Stack Web | [ GuruMachanica/Summarizer](https://github.com/GuruMachanica/Summarizer) |
 
 <div align="center">
   <img src="assets/divider.svg" alt="divider" width="800" />
