@@ -63,7 +63,7 @@
 ## Featured Projects
 
 <div align="center">
-  <a href="https://github.com/GuruMachanica/Concept-2-3D"><img src="assets/project-concept3d.svg" alt="Concept3D" width="45%" /></a>
+  <a href="https://github.com/GuruMachanica/Concept-3D"><img src="assets/project-concept3d.svg" alt="Concept3D" width="45%" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/GuruMachanica/A.E.G.I.S."><img src="assets/project-aegis.svg" alt="A.E.G.I.S." width="45%" /></a>
   
@@ -81,7 +81,7 @@
 | Project | Category | Core Stack | Repository |
 | :--- | :--- | :--- | :--- |
 | **A.E.G.I.S.** | Audio Edge Security & Anti-Scam | FastAPI • WebSockets • Python • Flutter | [ GuruMachanica/A.E.G.I.S.](https://github.com/GuruMachanica/A.E.G.I.S.) |
-| **Concept-2-3D** | Prompt-to-3D Spatial Generation | PyTorch • Generative 3D • Semantic ML | [ GuruMachanica/Concept-2-3D](https://github.com/GuruMachanica/Concept-2-3D) |
+| **Concept-3D** | Prompt-to-3D Spatial Generation | PyTorch • Generative 3D • Semantic ML | [ GuruMachanica/Concept-3D](https://github.com/GuruMachanica/Concept-3D) |
 | **KavachG** | Industrial Safety CV Command Center | FastAPI • OpenCV • Computer Vision | [ GuruMachanica/KavachG](https://github.com/GuruMachanica/KavachG) |
 | **SunMap** | 3D Solar Potential & Revenue Analytics | Three.js • PyTorch • Spatial Simulation | [ GuruMachanica/SunMap](https://github.com/GuruMachanica/SunMap) |
 | **Portfolio** | Multi-Page Monolith Web App | React 18 • Three.js • Anime.js • TailwindCSS | [ GuruMachanica/Portfolio](https://github.com/GuruMachanica/Portfolio) |
