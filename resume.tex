@@ -1,0 +1,171 @@
+\documentclass[10pt, letterpaper]{article}
+
+% Packages
+\usepackage[ignoreheadfoot, top=0.38cm, bottom=0.32cm, left=1.4cm, right=1.4cm]{geometry}
+\usepackage{titlesec}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage[dvipsnames]{xcolor}
+\definecolor{primaryColor}{RGB}{0,79,144} 
+\usepackage{enumitem}
+\usepackage[colorlinks=true, urlcolor=black, linkcolor=black]{hyperref}
+\usepackage{amsmath}
+\usepackage{changepage}
+\usepackage{needspace}
+
+% Font
+\usepackage{mathptmx}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+
+\titleformat{\section}{\bfseries\normalsize}{}{0pt}{}[\titlerule]
+\titlespacing{\section}{0pt}{4pt}{3.5pt}
+
+\renewcommand\labelitemi{\textbullet}
+
+% Custom environments
+\newenvironment{onecolentry}
+{\begin{adjustwidth}{0.15cm}{0.15cm}}
+{\end{adjustwidth}}
+
+\newenvironment{twocolentry}
+{\begin{adjustwidth}{0.15cm}{0.15cm}
+\begin{tabular*}{\textwidth}{l @{\extracolsep{\fill}} r}}
+{\end{tabular*}
+\end{adjustwidth}}
+
+\newenvironment{highlights}
+{\begin{itemize}[leftmargin=0.38cm, itemsep=0pt, topsep=2pt]}
+{\end{itemize}}
+
+% Header
+\newcommand{\resumeheader}{
+\vspace*{-0.45cm}
+{\centering
+{\fontsize{17.5pt}{17.5pt}\selectfont \textbf{Mohammad Huzaifa}}\\
+\vspace{3.5pt}
+\href{tel:+916391028860}{+91 6391028860} \quad
+\href{mailto:mdhuzaifa00786@gmail.com}{Email} \quad
+\href{https://www.linkedin.com/in/mohammad--huzaifa/}{LinkedIn} \quad
+\href{https://github.com/GuruMachanica}{GitHub} \quad
+\href{https://leetcode.com/u/mohammad-huzaifa-}{LeetCode} \quad
+\href{https://mohammad-huzaifa.vercel.app/}{Portfolio}
+\par}
+\vspace{0.15cm}
+}
+
+\begin{document}
+
+\resumeheader
+
+\section{Summary}
+\begin{onecolentry}
+B.Tech Computer Science student specializing in Agentic AI, Machine Learning, and Backend Engineering. Proven track record of designing autonomous AI agents, fine-tuning LLMs, and building robust data curation pipelines. Experienced in designing scalable backend systems, database schemas, and custom workflow automations to improve operational efficiency.
+\end{onecolentry}
+
+\section{Education}
+
+\begin{twocolentry}
+\textbf{United Institute of Technology, Prayagraj} & \textit{2023 – 2027} \\
+\textit{B.Tech in Computer Science and Engineering (7.47 CGPA up to 5th sem)} &
+\end{twocolentry}
+
+\vspace{4.5pt}
+
+\begin{twocolentry}
+\textbf{Allahabad Public School, Prayagraj} & \textit{2020 – 2022} \\
+\textit{Intermediate (85.8\%) \& High School (88.3\%)} &
+\end{twocolentry}
+
+\section{Experience}
+
+\begin{twocolentry}
+\textbf{Sanfy Consultancy Services Pvt. Ltd. (Orvanto AI)} \quad \href{https://drive.google.com/file/d/100xwhMZa1ViRXZRXDTFmYDMBq3LtKmt4/view?usp=sharing}{\underline{Certificate}} & \textit{Apr 2026 – Jul 2026} \\
+\textit{Backend Developer Intern} &
+\end{twocolentry}
+\begin{onecolentry}
+\begin{highlights}
+\item Designed and optimized high-throughput REST APIs and backend infrastructure using Python, FastAPI, and SQL.
+\item Engineered custom n8n automation workflows and Docker environments to streamline data ingestion and system processes.
+\item Collaborated with the product team to debug complex systems, integrate third-party APIs, and resolve database bottlenecks.
+\end{highlights}
+\end{onecolentry}
+
+\section{Technical Projects}
+
+\begin{twocolentry}
+\textbf{A.E.G.I.S — Total Communication Security} \quad \href{https://github.com/GuruMachanica/A.E.G.I.S.}{\underline{GitHub}} \quad \href{https://aegis-anti-scam.netlify.app/}{\underline{Demo}} & \textit{Jan 2026 – Feb 2026}
+\end{twocolentry}
+\begin{onecolentry}
+\begin{highlights}
+\item Architected a sub-second ($<280\text{ms}$) real-time audio pipeline using FastAPI WebSockets, WebRTC VAD, and AASIST deepfake voice detection.
+\item Integrated Sarvam AI multilingual STT (7+ Indic languages) with weighted hybrid risk scoring and automated Guardian SOS alerts.
+\end{highlights}
+\end{onecolentry}
+
+\begin{twocolentry}
+\textbf{Concept3D — AI Concept-to-3D Visualization} \quad \href{https://github.com/GuruMachanica/Concept-2-3D}{\underline{GitHub}} \quad \href{https://concept-3d.vercel.app/}{\underline{Demo}} & \textit{Feb 2026 – Mar 2026}
+\end{twocolentry}
+\begin{onecolentry}
+\begin{highlights}
+\item Led backend and 3D data pipeline engineering to translate unstructured conceptual data into structured 3D generation inputs.
+\item Streamlined generation workflows by designing an AI-driven semantic preprocessing pipeline (Python, PyTorch, Gen-AI).
+\end{highlights}
+\end{onecolentry}
+
+\begin{twocolentry}
+\textbf{SunMap — Solar Potential \& Revenue Simulation} \quad \href{https://github.com/GuruMachanica/SunMap}{\underline{GitHub}} \quad \href{https://sunmapsolar.netlify.app/}{\underline{Demo}} & \textit{Oct 2025}
+\end{twocolentry}
+\begin{onecolentry}
+\begin{highlights}
+\item Led predictive analytics and spatial data structuring to construct simulation environments for solar energy assessment.
+\item Trained custom PyTorch models on spatial data to predict solar capacity and generate cost-benefit revenue forecasts.
+\end{highlights}
+\end{onecolentry}
+
+\begin{twocolentry}
+\textbf{KavachG — AI-Based Safety KPI \& Monitoring} \quad \href{https://github.com/GuruMachanica/KavachG}{\underline{GitHub}} \quad \href{https://github.com/GuruMachanica/KavachG}{\underline{Demo}} & \textit{Apr 2025 – Jun 2025}
+\end{twocolentry}
+\begin{onecolentry}
+\begin{highlights}
+\item Developed machine learning pipelines and backend service integrations for a smart safety monitoring dashboard.
+\item Deployed real-time computer vision models to automate safety compliance checks (OpenCV, FastAPI).
+\end{highlights}
+\end{onecolentry}
+
+\section{Skills}
+\begin{onecolentry}
+\textbf{Generative AI \& Agentic Systems:} Agentic AI, LLM Fine-Tuning, RAG, Data Curation\\
+\textbf{Machine Learning \& CV:} Machine Learning, Computer Vision, PyTorch, TensorFlow, Scikit-Learn, EDA\\
+\textbf{Backend \& Data Engineering:} FastAPI, SQL (DBMS), ETL, Data Modeling, WebSocket API\\
+\textbf{Programming Languages:} Python, C++, C\\
+\textbf{Tools \& Automation:} Docker, Git/GitHub, n8n (Workflow Automation), Figma (UI/UX)
+\end{onecolentry}
+
+\section{Publications \& Certifications}
+\begin{onecolentry}
+\begin{itemize}[leftmargin=0.38cm, itemsep=1pt]
+
+\item \href{https://impactfactor.org/PDF/IJDDT/16/IJDDT,Vol16,Issue43s,Article31.pdf}{\textbf{Physiochemical Pattern Fingerprinting (PPF): Protein Homology Detection (IJDDT, Vol. 16, Issue 4)}} \\
+Co-authored a memory-efficient approach to structurally-sensitive homology detection.
+
+\item \href{https://cs50.harvard.edu/certificates/110613e9-87d7-4464-9897-63780847a793}{\textbf{CS50's Introduction to Artificial Intelligence with Python}} — Covered search, ML, NLP, and AI in Python.
+
+\end{itemize}
+\end{onecolentry}
+
+\section{Achievements}
+\begin{onecolentry}
+\begin{itemize}[leftmargin=0.38cm, itemsep=0pt]
+
+\item \href{https://www.linkedin.com/posts/mohammad-huzaifa-137939322_sankalp2026-hackathon-ai-activity-7444606593750495232-Tp3I}{\textbf{Prototype Development Sprint Qualifier, Sankalp 2026 – National Summit on Innovation \& Skills (MNNIT Prayagraj)}} — Pitched and built Concept3D, an AI-driven platform for generating interactive 3D visualizations.
+
+\item \href{https://www.linkedin.com/posts/mohammad-huzaifa-137939322_productdesign-uiux-appdevelopment-activity-7440709280879603712-ypPo}{\textbf{Second Runner-Up, UHACK 4.0 Hackathon (United Group of Institutions)}} — Delivered A.E.G.I.S, an AI-powered scam detection pipeline leveraging audio analytics to protect user assets.
+
+\item \href{https://www.linkedin.com/posts/mohammad-huzaifa-137939322_codestorm25-sunmap-hackathon-activity-7383512795281022977-Dele}{\textbf{Second Runner-Up, CodeStorm'25 Hackathon (Shambhunath Group of Institutions)}} — Developed SunMap, a data-driven 3D potential analyzer enabling strategic visualization and energy forecasting.
+
+\end{itemize}
+\end{onecolentry}
+
+\end{document}
