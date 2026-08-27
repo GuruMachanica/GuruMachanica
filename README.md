@@ -137,7 +137,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=GuruMachanica&theme=dark&hide_border=true&background=0a0a0a&ring=61DAFB&fire=61DAFB&currStreakNum=61DAFB&sideNums=ffffff&sideLabels=61DAFB&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=GuruMachanica&theme=dark&hide_border=true&border_radius=12&background=0a0a0a" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -157,7 +157,7 @@
 <br>
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="800" alt="3D Isometric Contributions" onerror="this.style.display='none'" />
+  <img src="https://raw.githubusercontent.com/GuruMachanica/GuruMachanica/main/profile-3d-contrib/profile-night-rainbow.svg" width="850" alt="3D Isometric Contributions" />
 </div>
 
 <br>
