@@ -1,7 +1,7 @@
 \documentclass[10pt, letterpaper]{article}
 
 % Packages
-\usepackage[ignoreheadfoot, top=0.38cm, bottom=0.32cm, left=1.4cm, right=1.4cm]{geometry}
+\usepackage[ignoreheadfoot, top=0.34cm, bottom=0.28cm, left=1.35cm, right=1.35cm]{geometry}
 \usepackage{titlesec}
 \usepackage{tabularx}
 \usepackage{array}
@@ -20,31 +20,31 @@
 \setlength{\parindent}{0pt}
 
 \titleformat{\section}{\bfseries\normalsize}{}{0pt}{}[\titlerule]
-\titlespacing{\section}{0pt}{4pt}{3.5pt}
+\titlespacing{\section}{0pt}{3.5pt}{2.5pt}
 
 \renewcommand\labelitemi{\textbullet}
 
 % Custom environments
 \newenvironment{onecolentry}
-{\begin{adjustwidth}{0.15cm}{0.15cm}}
+{\begin{adjustwidth}{0.12cm}{0.12cm}}
 {\end{adjustwidth}}
 
 \newenvironment{twocolentry}
-{\begin{adjustwidth}{0.15cm}{0.15cm}
-\begin{tabular*}{\textwidth}{l @{\extracolsep{\fill}} r}}
+{\begin{adjustwidth}{0.12cm}{0.12cm}
+\begin{tabular*}{\linewidth}{l @{\extracolsep{\fill}} r}}
 {\end{tabular*}
 \end{adjustwidth}}
 
 \newenvironment{highlights}
-{\begin{itemize}[leftmargin=0.38cm, itemsep=0pt, topsep=2pt]}
+{\begin{itemize}[leftmargin=0.36cm, itemsep=0pt, topsep=1.5pt]}
 {\end{itemize}}
 
 % Header
 \newcommand{\resumeheader}{
 \vspace*{-0.45cm}
 {\centering
-{\fontsize{17.5pt}{17.5pt}\selectfont \textbf{Mohammad Huzaifa}}\\
-\vspace{3.5pt}
+{\fontsize{17pt}{17pt}\selectfont \textbf{Mohammad Huzaifa}}\\
+\vspace{3pt}
 \href{tel:+916391028860}{+91 6391028860} \quad
 \href{mailto:mdhuzaifa00786@gmail.com}{Email} \quad
 \href{https://www.linkedin.com/in/mohammad--huzaifa/}{LinkedIn} \quad
@@ -52,7 +52,7 @@
 \href{https://leetcode.com/u/mohammad-huzaifa-}{LeetCode} \quad
 \href{https://mohammad-huzaifa.vercel.app/}{Portfolio}
 \par}
-\vspace{0.15cm}
+\vspace{0.1cm}
 }
 
 \begin{document}
@@ -71,7 +71,7 @@ B.Tech Computer Science student specializing in Agentic AI, Machine Learning, an
 \textit{B.Tech in Computer Science and Engineering (7.47 CGPA up to 5th sem)} &
 \end{twocolentry}
 
-\vspace{4.5pt}
+\vspace{3pt}
 
 \begin{twocolentry}
 \textbf{Allahabad Public School, Prayagraj} & \textit{2020 – 2022} \\
@@ -95,12 +95,12 @@ B.Tech Computer Science student specializing in Agentic AI, Machine Learning, an
 \section{Technical Projects}
 
 \begin{twocolentry}
-\textbf{A.E.G.I.S — Total Communication Security} \quad \href{https://github.com/GuruMachanica/A.E.G.I.S.}{\underline{GitHub}} \quad \href{https://aegis-anti-scam.netlify.app/}{\underline{Demo}} & \textit{Jan 2026 – Feb 2026}
+\textbf{AnveshakSutra — Zero-Knowledge Breach Intelligence} \quad \href{https://github.com/GuruMachanica/AnveshakSutra}{\underline{GitHub}} \quad \href{https://anveshak-sutra.vercel.app/}{\underline{Demo}} & \textit{Feb 2026}
 \end{twocolentry}
 \begin{onecolentry}
 \begin{highlights}
-\item Architected a sub-second ($<280\text{ms}$) real-time audio pipeline using FastAPI WebSockets, WebRTC VAD, and AASIST deepfake voice detection.
-\item Integrated Sarvam AI multilingual STT (7+ Indic languages) with weighted hybrid risk scoring and automated Guardian SOS alerts.
+\item Architected a Zero-Knowledge K-Anonymity protocol (5-char SHA-256 prefix bucketing) querying breach pools with zero server identity leakage.
+\item Built a 3D WebGL Graph ML blast radius engine (Betweenness Centrality) with Celery async sweepers and canary deception tripwires.
 \end{highlights}
 \end{onecolentry}
 
@@ -111,6 +111,16 @@ B.Tech Computer Science student specializing in Agentic AI, Machine Learning, an
 \begin{highlights}
 \item Led backend and 3D data pipeline engineering to translate unstructured conceptual data into structured 3D generation inputs.
 \item Streamlined generation workflows by designing an AI-driven semantic preprocessing pipeline (Python, PyTorch, Gen-AI).
+\end{highlights}
+\end{onecolentry}
+
+\begin{twocolentry}
+\textbf{A.E.G.I.S — Total Communication Security} \quad \href{https://github.com/GuruMachanica/A.E.G.I.S.}{\underline{GitHub}} \quad \href{https://aegis-anti-scam.netlify.app/}{\underline{Demo}} & \textit{Jan 2026 – Feb 2026}
+\end{twocolentry}
+\begin{onecolentry}
+\begin{highlights}
+\item Architected a sub-second ($<280\text{ms}$) real-time audio pipeline using FastAPI WebSockets, WebRTC VAD, and AASIST deepfake voice detection.
+\item Integrated Sarvam AI multilingual STT (7+ Indic languages) with weighted hybrid risk scoring and automated Guardian SOS alerts.
 \end{highlights}
 \end{onecolentry}
 
@@ -145,7 +155,7 @@ B.Tech Computer Science student specializing in Agentic AI, Machine Learning, an
 
 \section{Publications \& Certifications}
 \begin{onecolentry}
-\begin{itemize}[leftmargin=0.38cm, itemsep=1pt]
+\begin{itemize}[leftmargin=0.36cm, itemsep=1pt]
 
 \item \href{https://impactfactor.org/PDF/IJDDT/16/IJDDT,Vol16,Issue43s,Article31.pdf}{\textbf{Physiochemical Pattern Fingerprinting (PPF): Protein Homology Detection (IJDDT, Vol. 16, Issue 4)}} \\
 Co-authored a memory-efficient approach to structurally-sensitive homology detection.
@@ -157,13 +167,13 @@ Co-authored a memory-efficient approach to structurally-sensitive homology detec
 
 \section{Achievements}
 \begin{onecolentry}
-\begin{itemize}[leftmargin=0.38cm, itemsep=0pt]
+\begin{itemize}[leftmargin=0.36cm, itemsep=0pt]
 
-\item \href{https://www.linkedin.com/posts/mohammad-huzaifa-137939322_sankalp2026-hackathon-ai-activity-7444606593750495232-Tp3I}{\textbf{Prototype Development Sprint Qualifier, Sankalp 2026 – National Summit on Innovation \& Skills (MNNIT Prayagraj)}} — Pitched and built Concept3D, an AI-driven platform for generating interactive 3D visualizations.
+\item \href{https://www.linkedin.com/posts/mohammad-huzaifa-137939322_sankalp2026-hackathon-ai-activity-7444606593750495232-Tp3I}{\textbf{Prototype Sprint Qualifier, Sankalp 2026 (MNNIT Prayagraj)}} — Built Concept3D for generating interactive 3D visualizations.
 
-\item \href{https://www.linkedin.com/posts/mohammad-huzaifa-137939322_productdesign-uiux-appdevelopment-activity-7440709280879603712-ypPo}{\textbf{Second Runner-Up, UHACK 4.0 Hackathon (United Group of Institutions)}} — Delivered A.E.G.I.S, an AI-powered scam detection pipeline leveraging audio analytics to protect user assets.
+\item \href{https://www.linkedin.com/posts/mohammad-huzaifa-137939322_productdesign-uiux-appdevelopment-activity-7440709280879603712-ypPo}{\textbf{Second Runner-Up, UHACK 4.0 Hackathon (United Group of Institutions)}} — Built A.E.G.I.S audio scam detection pipeline.
 
-\item \href{https://www.linkedin.com/posts/mohammad-huzaifa-137939322_codestorm25-sunmap-hackathon-activity-7383512795281022977-Dele}{\textbf{Second Runner-Up, CodeStorm'25 Hackathon (Shambhunath Group of Institutions)}} — Developed SunMap, an intelligent 3D spatial engine extracting CityGML LOD2 geometries with ray-traced shadow occlusion.
+\item \href{https://www.linkedin.com/posts/mohammad-huzaifa-137939322_codestorm25-sunmap-hackathon-activity-7383512795281022977-Dele}{\textbf{Second Runner-Up, CodeStorm'25 Hackathon (Shambhunath Group of Institutions)}} — Built SunMap 3D CityGML spatial engine.
 
 \end{itemize}
 \end{onecolentry}
