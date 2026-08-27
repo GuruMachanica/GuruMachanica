@@ -137,13 +137,15 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GuruMachanica&theme=github-dark&hide_border=true&background=0a0a0a&ring=61DAFB&fire=61DAFB&currStreakNum=61DAFB&sideNums=ffffff&sideLabels=61DAFB&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=GuruMachanica&theme=dark&hide_border=true&background=0a0a0a&ring=61DAFB&fire=61DAFB&currStreakNum=61DAFB&sideNums=ffffff&sideLabels=61DAFB&dates=ffffff" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuruMachanica&theme=github_dark" alt="Profile Details" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuruMachanica&theme=github_dark&utcOffset=5.5" alt="Productive Time (IST)" />
 </div>
 
 <br>
