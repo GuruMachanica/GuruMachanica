@@ -1,63 +1,167 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300">
-  <!-- Definitions for gradients and patterns -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320">
   <defs>
-    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0a0a" />
-      <stop offset="100%" stop-color="#141414" />
-    </linearGradient>
-    
-    <linearGradient id="accent-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#61DAFB" />
-      <stop offset="100%" stop-color="#ffffff" />
+    <!-- Background & Glowing Gradients -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07090e" />
+      <stop offset="50%" stop-color="#0c1017" />
+      <stop offset="100%" stop-color="#05070a" />
     </linearGradient>
 
-    <!-- Neural Network Nodes Pattern -->
-    <pattern id="nodes" x="0" y="0" width="150" height="150" patternUnits="userSpaceOnUse">
-      <circle cx="20" cy="20" r="2" fill="#333" />
-      <circle cx="100" cy="50" r="2" fill="#333" />
-      <circle cx="50" cy="120" r="2" fill="#333" />
-      <circle cx="130" cy="130" r="2" fill="#333" />
-      <line x1="20" y1="20" x2="100" y2="50" stroke="#222" stroke-width="1" />
-      <line x1="100" y1="50" x2="50" y2="120" stroke="#222" stroke-width="1" />
-      <line x1="50" y1="120" x2="130" y2="130" stroke="#222" stroke-width="1" />
-      <line x1="130" y1="130" x2="20" y2="20" stroke="#222" stroke-width="1" />
+    <linearGradient id="cyan-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#61DAFB" />
+      <stop offset="50%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#0284c7" />
+    </linearGradient>
+
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="70%" stop-color="#e0f2fe" />
+      <stop offset="100%" stop-color="#61DAFB" />
+    </linearGradient>
+
+    <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#61DAFB" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#61DAFB" stop-opacity="0.0" />
+    </linearGradient>
+
+    <radialGradient id="node-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#61DAFB" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#61DAFB" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Subtle Tech Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="0.75" stroke-opacity="0.4" />
+      <circle cx="40" cy="0" r="1" fill="#38bdf8" opacity="0.3" />
     </pattern>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
   </defs>
 
-  <!-- Background -->
-  <rect width="1000" height="300" fill="url(#bg-grad)" rx="10" />
-  
-  <!-- Subtle Geometry / AI pattern -->
-  <rect width="1000" height="300" fill="url(#nodes)" rx="10" />
-  
-  <!-- Abstract Shapes for depth -->
-  <circle cx="950" cy="-50" r="250" fill="none" stroke="#222" stroke-width="2" />
-  <circle cx="950" cy="-50" r="150" fill="none" stroke="#61DAFB" stroke-width="0.5" opacity="0.3" />
-  <path d="M -50 250 Q 150 400 350 250" fill="none" stroke="#222" stroke-width="1.5" />
+  <style>
+    @keyframes float-slow {
+      0%, 100% { transform: translateY(0px) rotate(0deg); }
+      50% { transform: translateY(-8px) rotate(1deg); }
+    }
+    @keyframes pulse-ring {
+      0%, 100% { opacity: 0.25; transform: scale(1); }
+      50% { opacity: 0.7; transform: scale(1.05); }
+    }
+    @keyframes dash {
+      to { stroke-dashoffset: -400; }
+    }
+    @keyframes beacon {
+      0%, 100% { r: 3.5; opacity: 0.8; }
+      50% { r: 5.5; opacity: 1; filter: drop-shadow(0 0 6px #61DAFB); }
+    }
+    .floating-circuit {
+      animation: float-slow 7s ease-in-out infinite;
+    }
+    .pulsing-ring {
+      transform-origin: 850px 160px;
+      animation: pulse-ring 4s ease-in-out infinite;
+    }
+    .dash-line {
+      stroke-dasharray: 6 6;
+      animation: dash 20s linear infinite;
+    }
+    .node-beacon {
+      animation: beacon 2.5s ease-in-out infinite;
+    }
+    .tag-box {
+      fill: rgba(15, 23, 42, 0.75);
+      stroke: #334155;
+      stroke-width: 1;
+      rx: 6;
+    }
+  </style>
 
-  <!-- Content Group -->
-  <g transform="translate(60, 0)">
-    <!-- Main Name -->
-    <text x="0" y="110" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="#ffffff" letter-spacing="3">MOHAMMAD HUZAIFA</text>
-    
-    <!-- Title with Accent -->
-    <text x="0" y="160" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="url(#accent-grad)" letter-spacing="1.5">AI ENGINEER</text>
+  <!-- Base Card Background -->
+  <rect width="1000" height="320" rx="16" fill="url(#bg)" stroke="#1e293b" stroke-width="1.5" />
 
-    <!-- Specialties Row 1 -->
-    <text x="0" y="220" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#a0a0a0" letter-spacing="1">MACHINE LEARNING</text>
-    <circle cx="160" cy="216" r="3" fill="#61DAFB" />
-    <text x="180" y="220" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#a0a0a0" letter-spacing="1">BACKEND DEVELOPMENT</text>
-    <circle cx="380" cy="216" r="3" fill="#61DAFB" />
-    <text x="400" y="220" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#a0a0a0" letter-spacing="1">GENERATIVE AI</text>
+  <!-- Grid Layer -->
+  <rect width="1000" height="320" rx="16" fill="url(#grid)" />
 
-    <!-- Specialties Row 2 -->
-    <text x="0" y="250" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#a0a0a0" letter-spacing="1">LLMS</text>
-    <circle cx="50" cy="246" r="3" fill="#61DAFB" />
-    <text x="70" y="250" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#a0a0a0" letter-spacing="1">DATA ANALYTICS</text>
-    <circle cx="215" cy="246" r="3" fill="#61DAFB" />
-    <text x="235" y="250" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#a0a0a0" letter-spacing="1">AUTONOMOUS SYSTEMS</text>
+  <!-- Glowing Top-Right Cyber Core Art -->
+  <g class="pulsing-ring">
+    <circle cx="850" cy="160" r="130" fill="none" stroke="#0ea5e9" stroke-width="0.75" opacity="0.2" />
+    <circle cx="850" cy="160" r="100" fill="none" stroke="#61DAFB" stroke-width="1" stroke-dasharray="8 6" opacity="0.4" class="dash-line" />
+    <circle cx="850" cy="160" r="70" fill="none" stroke="#38bdf8" stroke-width="1.5" opacity="0.5" />
+    <circle cx="850" cy="160" r="40" fill="url(#node-glow)" opacity="0.6" />
+    <circle cx="850" cy="160" r="6" fill="#61DAFB" filter="url(#glow)" />
   </g>
 
-  <!-- Side decorative bar -->
-  <rect x="0" y="60" width="8" height="180" fill="#61DAFB" rx="4" />
+  <!-- Neural Constellation Lines & Connected Nodes -->
+  <g class="floating-circuit" opacity="0.75">
+    <!-- Connecting Vector Lines -->
+    <path d="M 680 70 L 760 120 L 850 90 L 920 150 L 850 230 L 750 200 L 680 250 L 760 120" 
+          fill="none" stroke="url(#line-grad)" stroke-width="1.2" />
+    <path d="M 520 160 L 680 70 L 620 220 L 680 250" fill="none" stroke="#334155" stroke-width="0.8" stroke-dasharray="4 4" />
+
+    <!-- Nodes -->
+    <circle cx="680" cy="70" r="3.5" fill="#61DAFB" class="node-beacon" />
+    <circle cx="760" cy="120" r="4" fill="#38bdf8" />
+    <circle cx="850" cy="90" r="3" fill="#93c5fd" />
+    <circle cx="920" cy="150" r="4.5" fill="#61DAFB" class="node-beacon" />
+    <circle cx="850" cy="230" r="3" fill="#38bdf8" />
+    <circle cx="750" cy="200" r="4" fill="#61DAFB" />
+    <circle cx="680" cy="250" r="3.5" fill="#93c5fd" />
+    <circle cx="620" cy="220" r="2.5" fill="#64748b" />
+    <circle cx="520" cy="160" r="3" fill="#61DAFB" />
+  </g>
+
+  <!-- Corner Ambient Neon Accents -->
+  <path d="M 0 0 L 140 0 C 60 40 0 100 0 140 Z" fill="url(#cyan-glow)" opacity="0.12" />
+  <line x1="20" y1="20" x2="60" y2="20" stroke="#61DAFB" stroke-width="2" opacity="0.8" />
+  <line x1="20" y1="20" x2="20" y2="60" stroke="#61DAFB" stroke-width="2" opacity="0.8" />
+
+  <!-- Left Content Group -->
+  <g transform="translate(64, 0)">
+    <!-- Subtitle pill -->
+    <g transform="translate(0, 48)">
+      <rect width="210" height="26" rx="13" fill="#0f172a" stroke="#0284c7" stroke-width="1" />
+      <circle cx="14" cy="13" r="4" fill="#22c55e" />
+      <text x="26" y="17" font-family="'Segoe UI', Ubuntu, Roboto, sans-serif" font-size="11.5" font-weight="700" fill="#38bdf8" letter-spacing="1">PORTFOLIO &amp; LABS</text>
+    </g>
+
+    <!-- Main Name with Gradient Typography -->
+    <text x="0" y="125" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="44" font-weight="900" fill="url(#text-grad)" letter-spacing="2.5">
+      MOHAMMAD HUZAIFA
+    </text>
+
+    <!-- Role Headline -->
+    <text x="0" y="165" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="20" font-weight="700" fill="url(#cyan-glow)" letter-spacing="2">
+      AGENTIC AI ENGINEER &amp; BACKEND ARCHITECT
+    </text>
+
+    <!-- Bio / Focus statement -->
+    <text x="0" y="196" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13.5" font-weight="400" fill="#94a3b8" letter-spacing="0.5">
+      Architecting autonomous multi-agent systems, neural pipelines, and high-throughput backends.
+    </text>
+
+    <!-- Domain Chips / Badges -->
+    <g transform="translate(0, 226)">
+      <!-- Chip 1 -->
+      <rect x="0" y="0" width="130" height="30" class="tag-box" />
+      <text x="65" y="19" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11.5" font-weight="600" fill="#cbd5e1">🤖 AGENTIC AI</text>
+
+      <!-- Chip 2 -->
+      <rect x="140" y="0" width="130" height="30" class="tag-box" />
+      <text x="205" y="19" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11.5" font-weight="600" fill="#cbd5e1">🧠 LLMs &amp; RAG</text>
+
+      <!-- Chip 3 -->
+      <rect x="280" y="0" width="145" height="30" class="tag-box" />
+      <text x="352.5" y="19" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11.5" font-weight="600" fill="#cbd5e1">⚡ FASTAPI / SQL</text>
+
+      <!-- Chip 4 -->
+      <rect x="435" y="0" width="150" height="30" class="tag-box" />
+      <text x="510" y="19" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11.5" font-weight="600" fill="#cbd5e1">👁️ COMPUTER VISION</text>
+    </g>
+  </g>
 </svg>

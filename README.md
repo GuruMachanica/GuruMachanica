@@ -156,6 +156,10 @@
 
 <br>
 
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="800" alt="3D Isometric Contributions" onerror="this.style.display='none'" />
+</div>
+
 <br>
 
 <div align="center">
