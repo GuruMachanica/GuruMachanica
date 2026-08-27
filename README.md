@@ -130,20 +130,20 @@
 ## 📊 Analytics & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuruMachanica&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=61DAFB&v=1" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuruMachanica&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=61DAFB&v=1" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuruMachanica&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuruMachanica&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=61DAFB&text_color=ffffff" height="170" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GuruMachanica&theme=github-dark&hide_border=true&background=0a0a0a&ring=61DAFB&fire=61DAFB&currStreakNum=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=GuruMachanica&theme=github-dark&hide_border=true&background=0a0a0a&ring=61DAFB&fire=61DAFB&currStreakNum=61DAFB&sideNums=ffffff&sideLabels=61DAFB&dates=ffffff" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuruMachanica&theme=github-dark&hide_border=true&bg_color=0a0a0a&color=61DAFB&line=61DAFB&point=ffffff" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuruMachanica&theme=github_dark" alt="Profile Details" />
 </div>
 
 <br>
