@@ -20,18 +20,18 @@
   <img src="assets/divider.svg" alt="divider" width="800" />
 </div>
 
-## 👤 About Me
+## About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **Dr. A.P.J. Abdul Kalam Technical University (AKTU)**.
-- 💼 Completed **Backend Developer Internship** at **Sanfy Consultancy Services (Orvanto AI)** (Apr 2026 – Jul 2026).
-- 🧠 Deeply focused on **Machine Learning, LLMs, Generative AI, and Computer Vision**.
-- 🛠 Building robust **Backend Systems, Product Engineering solutions, and Workflow Automation**.
+- **Education:** Pursuing **B.Tech in Computer Science & Engineering** at **Dr. A.P.J. Abdul Kalam Technical University (AKTU)**.
+- **Experience:** Completed **Backend Developer Internship** at **Sanfy Consultancy Services (Orvanto AI)** (Apr 2026 – Jul 2026).
+- **Core Focus:** Deeply focused on **Machine Learning, LLMs, Generative AI, and Computer Vision**.
+- **Specialization:** Building robust **Backend Systems, Product Engineering solutions, and Workflow Automation**.
 
 <div align="center">
   <img src="assets/divider.svg" alt="divider" width="800" />
 </div>
 
-## 💼 Experience
+## Experience
 
 ### **Backend Developer Intern** @ Sanfy Consultancy Services (Orvanto AI)
 *Apr 2026 – Jul 2026 • Backend APIs • Automation • Scalable Systems*
@@ -44,7 +44,7 @@
   <img src="assets/divider.svg" alt="divider" width="800" />
 </div>
 
-## 🎯 Current Focus
+## Current Focus
 
 <div align="center">
   <kbd>GameForge</kbd> &nbsp;&nbsp;
@@ -60,7 +60,7 @@
   <img src="assets/divider.svg" alt="divider" width="800" />
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
   <a href="https://github.com/GuruMachanica/GameForge"><img src="assets/project-gameforge.svg" alt="GameForge" width="45%" /></a>
@@ -82,7 +82,7 @@
   <img src="assets/divider.svg" alt="divider" width="800" />
 </div>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Generative AI &amp; Agentic Systems
 <p>
@@ -127,7 +127,7 @@
   <img src="assets/divider.svg" alt="divider" width="800" />
 </div>
 
-## 📊 Analytics & Metrics
+## Analytics & Metrics
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuruMachanica&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff" height="170" alt="GitHub Stats" />
@@ -167,17 +167,17 @@
 </div>
 
 
-## 📚 Publications &amp; Certifications
+## Publications & Certifications
 
-- 📄 **Research Paper:** [Physiochemical Pattern Fingerprinting (PPF): A Memory-Efficient Approach to Structurally-Sensitive Protein Homology Detection](https://impactfactor.org/PDF/IJDDT/16/IJDDT,Vol16,Issue43s,Article31.pdf)  
+- **Research Paper:** [Physiochemical Pattern Fingerprinting (PPF): A Memory-Efficient Approach to Structurally-Sensitive Protein Homology Detection](https://impactfactor.org/PDF/IJDDT/16/IJDDT,Vol16,Issue43s,Article31.pdf)  
   *By Rohit Mishra, et al. (including Mohammad Huzaifa). Published in the International Journal of Drug Delivery Technology (IJDDT), Vol 16, Issue 4.*
-- 🎓 **Harvard Certification:** [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/110613e9-87d7-4464-9897-63780847a793)
+- **Harvard Certification:** [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/110613e9-87d7-4464-9897-63780847a793)
 
 <div align="center">
   <img src="assets/divider.svg" alt="divider" width="800" />
 </div>
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://www.mohammad-huzaifa.me"><img src="https://img.shields.io/badge/Portfolio-141414?style=for-the-badge&logo=vercel&logoColor=61DAFB"/></a>
