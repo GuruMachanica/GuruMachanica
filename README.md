@@ -91,7 +91,7 @@
 | **SunMap** | 3D Spatial Solar Irradiance Engine | Three.js • CityGML LOD2 • Perez Transposition | [**Live Preview**](https://sunmapsolar.netlify.app/) | [GuruMachanica/SunMap](https://github.com/GuruMachanica/SunMap) |
 | **KavachG** | Autonomous Edge Industrial Safety CV | YOLOv8 • 17-Point Pose • Three.js Plant Twin | [**Live Preview**](https://kavach-g.vercel.app/) | [GuruMachanica/KavachG](https://github.com/GuruMachanica/KavachG) |
 | **Portfolio &amp; Resume** | Monolith Interactive Web Portfolio | React 18 • Three.js • Anime.js • TailwindCSS | [**Live Web**](https://mohammad-huzaifa.me/) • [**Resume**](https://mohammad-huzaifa.me/resume) | [GuruMachanica/Portfolio](https://github.com/GuruMachanica/Portfolio) |
-| **Giyu-Bot** | Autonomous AI Assistant with pgvector RAG | Python • Mistral AI • Supabase • Docker | — | [GuruMachanica/Giyu-Bot](https://github.com/GuruMachanica/Giyu-Bot) |
+| **Giyu-Bot** | Autonomous Telegram AI Assistant with pgvector RAG | Python • Mistral AI • Supabase • Telegram API | [**@TomiokaGiyu98_bot**](https://t.me/TomiokaGiyu98_bot) | [GuruMachanica/Giyu-Bot](https://github.com/GuruMachanica/Giyu-Bot) |
 | **ArthaRaksa** | Zero-Knowledge Anti-Phishing Ecosystem | Int4 Transformer • Bloom Filter • Fastify | — | [GuruMachanica/ArthaRaksa](https://github.com/GuruMachanica/ArthaRaksa) |
 
 <div align="center">
