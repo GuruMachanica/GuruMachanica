@@ -47,47 +47,52 @@
 ## Current Focus
 
 <div align="center">
-  <kbd>GameForge</kbd> &nbsp;&nbsp;
+  <kbd>AnveshakSutra</kbd> &nbsp;&nbsp;
   <kbd>Concept3D</kbd> &nbsp;&nbsp;
-  <kbd>Agentic AI &amp; AI Agents</kbd> &nbsp;&nbsp;
-  <kbd>RAG</kbd> &nbsp;&nbsp;
-  <kbd>LLM Fine-Tuning</kbd> &nbsp;&nbsp;
-  <kbd>Data Curation</kbd> &nbsp;&nbsp;
-  <kbd>Backend Engineering</kbd>
+  <kbd>Agentic AI &amp; Multi-Agent Swarms</kbd> &nbsp;&nbsp;
+  <kbd>Zero-Knowledge Privacy</kbd> &nbsp;&nbsp;
+  <kbd>3D Spatial Simulation</kbd> &nbsp;&nbsp;
+  <kbd>Distributed Backend Architecture</kbd>
 </div>
 
 <div align="center">
   <img src="assets/divider.svg" alt="divider" width="800" />
 </div>
 
-## Featured Projects
+## Featured Production Systems
 
 <div align="center">
-  <a href="https://github.com/GuruMachanica/Concept-3D"><img src="assets/project-concept3d.svg" alt="Concept3D" width="45%" /></a>
+  <a href="https://anveshak-sutra.vercel.app/"><img src="assets/project-anveshaksutra.svg" alt="AnveshakSutra" width="45%" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/GuruMachanica/A.E.G.I.S."><img src="assets/project-aegis.svg" alt="A.E.G.I.S." width="45%" /></a>
+  <a href="https://concept-3d.vercel.app/"><img src="assets/project-concept3d.svg" alt="Concept3D" width="45%" /></a>
   
   <br><br>
   
-  <a href="https://github.com/GuruMachanica/KavachG"><img src="assets/project-kavachg.svg" alt="KavachG" width="45%" /></a>
+  <a href="https://aegis-anti-scam.netlify.app/"><img src="assets/project-aegis.svg" alt="A.E.G.I.S." width="45%" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/GuruMachanica/SunMap"><img src="assets/project-sunmap.svg" alt="SunMap" width="45%" /></a>
+  <a href="https://sunmapsolar.netlify.app/"><img src="assets/project-sunmap.svg" alt="SunMap" width="45%" /></a>
+
+  <br><br>
+  
+  <a href="https://kavach-g.vercel.app/"><img src="assets/project-kavachg.svg" alt="KavachG" width="45%" /></a>
+  &nbsp;&nbsp;
+  <a href="https://mohammad-huzaifa.me/resume"><img src="assets/project-gameforge.svg" alt="Technical Resume" width="45%" /></a>
 </div>
 
 <br>
 
-###  Complete GitHub Repositories Directory
+###  Complete Production Systems & Repositories Directory
 
-| Project | Category | Core Stack | Repository |
-| :--- | :--- | :--- | :--- |
-| **A.E.G.I.S.** | Audio Edge Security & Anti-Scam | FastAPI • WebSockets • Python • Flutter | [ GuruMachanica/A.E.G.I.S.](https://github.com/GuruMachanica/A.E.G.I.S.) |
-| **Concept-3D** | Prompt-to-3D Spatial Generation | PyTorch • Generative 3D • Semantic ML | [ GuruMachanica/Concept-3D](https://github.com/GuruMachanica/Concept-3D) |
-| **KavachG** | Industrial Safety CV Command Center | FastAPI • OpenCV • Computer Vision | [ GuruMachanica/KavachG](https://github.com/GuruMachanica/KavachG) |
-| **SunMap** | 3D Solar Potential & Revenue Analytics | Three.js • PyTorch • Spatial Simulation | [ GuruMachanica/SunMap](https://github.com/GuruMachanica/SunMap) |
-| **Portfolio** | Multi-Page Monolith Web App | React 18 • Three.js • Anime.js • TailwindCSS | [ GuruMachanica/Portfolio](https://github.com/GuruMachanica/Portfolio) |
-| **Giyu-Bot** | AI Assistant with pgvector RAG | Python • Mistral AI • Supabase • Docker | [ GuruMachanica/Giyu-Bot](https://github.com/GuruMachanica/Giyu-Bot) |
-| **Game_Emulator** | Retro Gaming Desktop Interface | Python • PyQt5 • Desktop Systems | [ GuruMachanica/Game_Emulator](https://github.com/GuruMachanica/Game_Emulator) |
-| **Summarizer** | NLP Document Summarization | Python • NLP • Full Stack Web | [ GuruMachanica/Summarizer](https://github.com/GuruMachanica/Summarizer) |
+| Production System | Category | Core Tech Stack | Live Preview | Repository |
+| :--- | :--- | :--- | :--- | :--- |
+| **AnveshakSutra** | Zero-Knowledge Breach OSINT &amp; Deception | K-Anonymity • 3D Graph ML • Celery • WebGL | [**Live Preview**](https://anveshak-sutra.vercel.app/) | [GuruMachanica/AnveshakSutra](https://github.com/GuruMachanica/AnveshakSutra) |
+| **Concept-3D** | Prompt-to-3D Spatial Latent Generation | PyTorch • Generative 3D • ChromaDB • Three.js | [**Live Preview**](https://concept-3d.vercel.app/) | [GuruMachanica/Concept-3D](https://github.com/GuruMachanica/Concept-3D) |
+| **A.E.G.I.S.** | Real-Time Audio Edge Scam Defense | FastAPI • AASIST • WebSockets • Sarvam STT | [**Live Preview**](https://aegis-anti-scam.netlify.app/) | [GuruMachanica/A.E.G.I.S.](https://github.com/GuruMachanica/A.E.G.I.S.) |
+| **SunMap** | 3D Spatial Solar Irradiance Engine | Three.js • CityGML LOD2 • Perez Transposition | [**Live Preview**](https://sunmapsolar.netlify.app/) | [GuruMachanica/SunMap](https://github.com/GuruMachanica/SunMap) |
+| **KavachG** | Autonomous Edge Industrial Safety CV | YOLOv8 • 17-Point Pose • Three.js Plant Twin | [**Live Preview**](https://kavach-g.vercel.app/) | [GuruMachanica/KavachG](https://github.com/GuruMachanica/KavachG) |
+| **Portfolio &amp; Resume** | Monolith Interactive Web Portfolio | React 18 • Three.js • Anime.js • TailwindCSS | [**Live Web**](https://mohammad-huzaifa.me/) • [**Resume**](https://mohammad-huzaifa.me/resume) | [GuruMachanica/Portfolio](https://github.com/GuruMachanica/Portfolio) |
+| **Giyu-Bot** | Autonomous AI Assistant with pgvector RAG | Python • Mistral AI • Supabase • Docker | — | [GuruMachanica/Giyu-Bot](https://github.com/GuruMachanica/Giyu-Bot) |
+| **ArthaRaksa** | Zero-Knowledge Anti-Phishing Ecosystem | Int4 Transformer • Bloom Filter • Fastify | — | [GuruMachanica/ArthaRaksa](https://github.com/GuruMachanica/ArthaRaksa) |
 
 <div align="center">
   <img src="assets/divider.svg" alt="divider" width="800" />
