@@ -59,6 +59,20 @@
   <img src="assets/divider.svg" alt="divider" width="800" />
 </div>
 
+
+## Academic Distinction & Peer-Reviewed Research
+
+| Credential / Publication | Issuing Authority | Verification & Details |
+| :--- | :--- | :--- |
+| **Physiochemical Pattern Fingerprinting (PPF)** | International Journal of Drug Delivery Technology (IJDDT) | [**Read Paper (DOI: 10.25258/ijddt.16.43s.31)**](https://impactfactor.org/PDF/IJDDT/16/IJDDT,Vol16,Issue43s,Article31.pdf) • [**Acceptance Certificate**](https://mohammad-huzaifa.me/OP-7050_IJDDT_Certificate.pdf) |
+| **CS50's Introduction to Artificial Intelligence with Python** | Harvard University (CS50 AI) | [**Harvard Verification Portal**](https://cs50.harvard.edu/certificates/110613e9-87d7-4464-9897-63780847a793) (July 2026) |
+| **Python Programming - Self Paced (6-Week Intensive)** | GeeksforGeeks (GFG) | [**GeeksforGeeks Verification Portal**](https://media.geeksforgeeks.org/courses/certificates/52efc3c0f0f7c6b889007279db05670d.pdf) (July 2025) |
+| **Backend Developer Internship** | Sanfy Consultancy Services (Orvanto AI) | [**Official Cloud Vault**](https://drive.google.com/file/d/100xwhMZa1ViRXZRXDTFmYDMBq3LtKmt4/view?usp=sharing) (Hybrid, India) |
+
+<div align="center">
+  <img src="assets/divider.svg" alt="divider" width="800" />
+</div>
+
 ## Featured Production Systems
 
 <div align="center">
@@ -89,9 +103,8 @@
 | **Concept-3D** | Prompt-to-3D Spatial Latent Generation | PyTorch • Generative 3D • ChromaDB • Three.js | [**Live Preview**](https://concept-3d.vercel.app/) | [GuruMachanica/Concept-3D](https://github.com/GuruMachanica/Concept-3D) |
 | **A.E.G.I.S.** | Real-Time Audio Edge Scam Defense | FastAPI • AASIST • WebSockets • Sarvam STT | [**Live Preview**](https://aegis-anti-scam.netlify.app/) | [GuruMachanica/A.E.G.I.S.](https://github.com/GuruMachanica/A.E.G.I.S.) |
 | **SunMap** | 3D Spatial Solar Irradiance Engine | Three.js • CityGML LOD2 • Perez Transposition | [**Live Preview**](https://sunmapsolar.netlify.app/) | [GuruMachanica/SunMap](https://github.com/GuruMachanica/SunMap) |
-| **KavachG** | Autonomous Edge Industrial Safety CV | YOLOv8 • 17-Point Pose • Three.js Plant Twin | [**Live Preview**](https://kavach-g.vercel.app/) | [GuruMachanica/KavachG](https://github.com/GuruMachanica/KavachG) |
+| **KavachG (Team CodeGambit)** | Autonomous Edge Industrial Safety CV | YOLOv8 • 17-Point Pose • Three.js Plant Twin | [**Live Preview**](https://kavach-g.vercel.app/) | [GuruMachanica/KavachG](https://github.com/GuruMachanica/KavachG) |
 | **Portfolio &amp; Resume** | Monolith Interactive Web Portfolio | React 18 • Three.js • Anime.js • TailwindCSS | [**Live Web**](https://mohammad-huzaifa.me/) • [**Resume**](https://mohammad-huzaifa.me/resume) | [GuruMachanica/Portfolio](https://github.com/GuruMachanica/Portfolio) |
-| **Giyu-Bot** | Autonomous Telegram AI Assistant with pgvector RAG | Python • Mistral AI • Supabase • Telegram API | [**@TomiokaGiyu98_bot**](https://t.me/TomiokaGiyu98_bot) | [GuruMachanica/Giyu-Bot](https://github.com/GuruMachanica/Giyu-Bot) |
 | **ArthaRaksa** | Zero-Knowledge Anti-Phishing Ecosystem | Int4 Transformer • Bloom Filter • Fastify | — | [GuruMachanica/ArthaRaksa](https://github.com/GuruMachanica/ArthaRaksa) |
 
 <div align="center">
