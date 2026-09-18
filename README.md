@@ -82,7 +82,7 @@
   
   <br><br>
   
-  <a href="https://aegis-anti-scam.netlify.app/"><img src="assets/project-aegis.svg" alt="A.E.G.I.S." width="45%" /></a>
+  <a href="https://vaakkavach.netlify.app/"><img src="assets/project-vaakkavach.svg" alt="VaakKavach" width="45%" /></a>
   &nbsp;&nbsp;
   <a href="https://sunmapsolar.netlify.app/"><img src="assets/project-sunmap.svg" alt="SunMap" width="45%" /></a>
 
@@ -101,7 +101,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **AnveshakSutra** | Zero-Knowledge Breach OSINT &amp; Deception | K-Anonymity • 3D Graph ML • Celery • WebGL | [**Live Preview**](https://anveshak-sutra.vercel.app/) | [GuruMachanica/AnveshakSutra](https://github.com/GuruMachanica/AnveshakSutra) |
 | **Concept-3D** | Prompt-to-3D Spatial Latent Generation | PyTorch • Generative 3D • ChromaDB • Three.js | [**Live Preview**](https://concept-3d.vercel.app/) | [GuruMachanica/Concept-3D](https://github.com/GuruMachanica/Concept-3D) |
-| **A.E.G.I.S.** | Real-Time Audio Edge Scam Defense | FastAPI • AASIST • WebSockets • Sarvam STT | [**Live Preview**](https://aegis-anti-scam.netlify.app/) | [GuruMachanica/A.E.G.I.S.](https://github.com/GuruMachanica/A.E.G.I.S.) |
+| **VaakKavach** | Autonomous Edge AI Acoustic Defense | Flutter • Kotlin Native DSP • Sub-15ms FFT • SQLite | [**Live Preview**](https://vaakkavach.netlify.app/) • [**Release APK**](https://github.com/GuruMachanica/VaakKavach/releases/latest) | [GuruMachanica/VaakKavach](https://github.com/GuruMachanica/VaakKavach) |
 | **SunMap** | 3D Spatial Solar Irradiance Engine | Three.js • CityGML LOD2 • Perez Transposition | [**Live Preview**](https://sunmapsolar.netlify.app/) | [GuruMachanica/SunMap](https://github.com/GuruMachanica/SunMap) |
 | **KavachG (Team CodeGambit)** | Autonomous Edge Industrial Safety CV | YOLOv8 • 17-Point Pose • Three.js Plant Twin | [**Live Preview**](https://kavach-g.vercel.app/) | [GuruMachanica/KavachG](https://github.com/GuruMachanica/KavachG) |
 | **Portfolio &amp; Resume** | Monolith Interactive Web Portfolio | React 18 • Three.js • Anime.js • TailwindCSS | [**Live Web**](https://mohammad-huzaifa.me/) • [**Resume**](https://mohammad-huzaifa.me/resume) | [GuruMachanica/Portfolio](https://github.com/GuruMachanica/Portfolio) |
