@@ -84,7 +84,7 @@
   
   <a href="https://vaakkavach.netlify.app/"><img src="assets/project-vaakkavach.svg" alt="VaakKavach" width="45%" /></a>
   &nbsp;&nbsp;
-  <a href="https://sunmapsolar.netlify.app/"><img src="assets/project-sunmap.svg" alt="ArkaSutra" width="45%" /></a>
+  <a href="https://arkasutra.netlify.app/"><img src="assets/project-sunmap.svg" alt="ArkaSutra" width="45%" /></a>
 
   <br><br>
   
@@ -102,7 +102,7 @@
 | **AnveshakSutra** | Zero-Knowledge Breach OSINT &amp; Deception | K-Anonymity • 3D Graph ML • Celery • WebGL | [**Live Preview**](https://anveshak-sutra.vercel.app/) | [GuruMachanica/AnveshakSutra](https://github.com/GuruMachanica/AnveshakSutra) |
 | **Concept-3D** | Prompt-to-3D Spatial Latent Generation | PyTorch • Generative 3D • ChromaDB • Three.js | [**Live Preview**](https://concept-3d.vercel.app/) | [GuruMachanica/Concept-3D](https://github.com/GuruMachanica/Concept-3D) |
 | **VaakKavach** | Autonomous Edge AI Acoustic Defense | Flutter • Kotlin Native DSP • Sub-15ms FFT • SQLite | [**Live Preview**](https://vaakkavach.netlify.app/) • [**Release APK**](https://github.com/GuruMachanica/VaakKavach/releases/latest) | [GuruMachanica/VaakKavach](https://github.com/GuruMachanica/VaakKavach) |
-| **ArkaSutra** | 3D Spatial Solar & Autonomous Rooftop Agent | Three.js • CityGML LOD2 • Perez Transposition • Agentic AI | [**Live Preview**](https://sunmapsolar.netlify.app/) | [GuruMachanica/ArkaSutra](https://github.com/GuruMachanica/ArkaSutra) |
+| **ArkaSutra** | 3D Spatial Solar & Autonomous Rooftop Agent (Upgraded from Team IronLogic SunMAP_final) | Three.js • CityGML LOD2 • Perez Transposition • Agentic AI | [**Live Preview**](https://arkasutra.netlify.app/) | [GuruMachanica/ArkaSutra](https://github.com/GuruMachanica/ArkaSutra) |
 | **KavachG (Team CodeGambit)** | Autonomous Edge Industrial Safety CV | YOLOv8 • 17-Point Pose • Three.js Plant Twin | [**Live Preview**](https://kavach-g.vercel.app/) | [GuruMachanica/KavachG](https://github.com/GuruMachanica/KavachG) |
 | **Portfolio &amp; Resume** | Monolith Interactive Web Portfolio | React 18 • Three.js • Anime.js • TailwindCSS | [**Live Web**](https://mohammad-huzaifa.me/) • [**Resume**](https://mohammad-huzaifa.me/resume) | [GuruMachanica/Portfolio](https://github.com/GuruMachanica/Portfolio) |
 | **ArthaRaksa** | Zero-Knowledge Anti-Phishing Ecosystem | Int4 Transformer • Bloom Filter • Fastify | — | [GuruMachanica/ArthaRaksa](https://github.com/GuruMachanica/ArthaRaksa) |
